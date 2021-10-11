@@ -1,0 +1,4 @@
+TV Shows
+Show the series with more details such as name, status, website and episodes.
+A simple app to show the TV series with a beautiful UI and more details about it such as  name, network, status, start date, seasons, episodes and website.
+Also, you can save your favorite show in watchlist.
